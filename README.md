@@ -18,7 +18,7 @@
 
 # 📖 [Enumerable Project] <a name="about-project"></a>
 
-**[Enumerable Project]** In this project we will use a module inside our class. We will create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable
+**[Enumerable Project]** In this project we will use a module inside our class. We will create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 ## 🛠 Built With <a name="built-with"></a>
 
 The site was built with Ruby.
@@ -34,7 +34,9 @@ The site was built with Ruby.
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+- Module #all? method
+- Module #any? method
+- Module #filter method
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
