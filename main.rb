@@ -10,4 +10,4 @@ puts "\nTest #any?"
 puts(list.any? { |element| element == 2 }) # Should return true
 puts(list.any? { |element| element == 5 }) # Should return false false
 puts "\nTest #filter"
-git aputs(list.filter(&:even?)) # Should return [2, 4]
+puts(list.filter(&:even?)) # Should return [2, 4]
