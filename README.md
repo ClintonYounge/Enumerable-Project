@@ -34,7 +34,9 @@ The site was built with Ruby.
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+- Module #all? method
+- Module #any? method
+- Medule #filter method
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
